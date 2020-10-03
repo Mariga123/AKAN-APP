@@ -6,4 +6,14 @@ var maleNames=[
     "Yaw",
     "Kofi",
     "Kwame"
-]
+];
+var femaleNames=[
+    "Akosua",
+    "Adwoa",
+    "Abenaa",
+    "Akua",
+    "Yaa",
+    "Afua",
+    "Ama"
+];
+
