@@ -16,4 +16,11 @@ var femaleNames=[
     "Afua",
     "Ama"
 ];
-
+var daysOfWeek=[
+    "Monday",
+    "Tuesady",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+];
