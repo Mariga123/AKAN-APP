@@ -24,7 +24,7 @@ var daysOfWeek=[
     "Friday",
     "Saturday"
 ];
-function myCode(){
+function myFunction(){
     event.preventDefault();
     var gender = document.getElementById('genders').value;
     var date = document.getElementById('date').value;
