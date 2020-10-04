@@ -3,6 +3,12 @@
  MARIGA JOHN
 ## Description
 * A naming system practiced in Ghana while naming their children according to the day of the week born.
+## Demo
+<img src="img/before.png">
+This is the landing page of before you fill in the data to get a name of your birth date.
+<img src="img/after.png">
+This is the response given you get after filling the details required to check your Akan name.
+
 ## To run my page on your browser,
 * Download the zip codes from my git account.
 * Extract the zip file to your folder directory documents or desktop.
