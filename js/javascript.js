@@ -4,7 +4,7 @@ var femaleNames=["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
 
 function myFunction(){
     event.preventDefault();
-    var gender = document.getElementById('genders').value;
+    var gender = document.getElementById('gender').value;
     var date = document.getElementById('date').value;
     date = new Date(date);
 
